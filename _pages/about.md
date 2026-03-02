@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. My Chinese name is 花硕.
+subtitle: My Chinese name is 花硕.
 
 profile:
   align: right
