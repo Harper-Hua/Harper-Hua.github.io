@@ -2,14 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Courses I have taught.
 nav: false
 nav_order: 6
-calendar: true
+calendar: false
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
-
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
-
-{% include courses.liquid %}
+Winter 2026-Stanford University, [CS246: Mining Massive Data Sets](https://web.stanford.edu/class/cs246/)
+Fall 2025, Fall 2024-Stanford University, [CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/)
