@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a M.S. student in Computer Science at Stanford University, where I am fortunate to work with Prof.[Jure Leskovec](https://cs.stanford.edu/people/jure/) and [Stefano Ermon](https://scholar.google.com/citations?user=ogXTOZ4AAAAJ&hl=en). Previously, I earned my B.S. from Tsinghua University. My primary research interests include post-training for LLM agents, reinforcement learning, and adapting/customizing agents for novel tasks and complex systems. I’m also broadly interested in long-context LLMs, privacy-preserving AI, and multimodal diffusion models—plus anything else that tickles my brain!
+I am a M.S. student in Computer Science at Stanford University, where I am fortunate to work with Prof. [Jure Leskovec](https://cs.stanford.edu/people/jure/) and [Stefano Ermon](https://scholar.google.com/citations?user=ogXTOZ4AAAAJ&hl=en). Previously, I earned my B.S. from Tsinghua University. My primary research interests include post-training for LLM agents, reinforcement learning, and adapting/customizing agents for novel tasks and complex systems. I’m also broadly interested in long-context LLMs, privacy-preserving AI, and multimodal diffusion models.
 
 In summer 2025, I was an Applied Scientist Intern at Amazon Web Service [Bedrock](https://aws.amazon.com/bedrock/), where I worked on multi-turn RL post-training for code generation.
 
