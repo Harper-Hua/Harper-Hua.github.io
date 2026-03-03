@@ -29,7 +29,7 @@ I am a M.S. student in Computer Science at Stanford University, where I am fortu
 
 In summer 2025, I was an Applied Scientist Intern at Amazon Web Service [Bedrock](https://aws.amazon.com/bedrock/), where I worked on multi-turn RL post-training for code generation.
 
-If you are interested in collaboration, just feel free to reach out to me!
+I’m always happy to chat or collaborate. Feel free to reach out!
 
 Email: shuohua [at] stanford.edu
 
