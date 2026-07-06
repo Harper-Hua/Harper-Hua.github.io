@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-07-06'
 papers:
   ZWfmTFEAAAAJ:2osOgNQ5qMEC:
-    citations: 33
+    citations: 32
     title: Tabula Sapiens reveals transcription factor expression, senescence effects, and sex-specific features in cell types from 28 human organs and tissues
     year: '2025'
   ZWfmTFEAAAAJ:IjCSPb-OGe4C:
@@ -10,11 +10,11 @@ papers:
     title: 'DSGym: A Holistic Framework for Evaluating and Training Data Science Agents'
     year: '2026'
   ZWfmTFEAAAAJ:UeHWp8X0CEIC:
-    citations: 37
+    citations: 38
     title: 'Researchcodebench: Benchmarking llms on implementing novel machine learning research code'
     year: '2025'
   ZWfmTFEAAAAJ:qjMakFHDy7sC:
-    citations: 93
+    citations: 96
     title: 'TabDiff: a Mixed-type Diffusion Model for Tabular Data Generation'
     year: Unknown Year
   ZWfmTFEAAAAJ:u-x6o8ySG0sC:
@@ -22,7 +22,7 @@ papers:
     title: 'TabDiff: a Unified Diffusion Model for Multi-Modal Tabular Data Generation'
     year: Unknown Year
   ZWfmTFEAAAAJ:u5HHmVD_uO8C:
-    citations: 50
+    citations: 51
     title: Categorization of 34 computational methods to detect spatially variable genes from spatially resolved transcriptomics data
     year: '2025'
   ZWfmTFEAAAAJ:zYLM7Y9cAGgC:
