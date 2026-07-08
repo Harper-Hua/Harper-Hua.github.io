@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-08'
 papers:
   ZWfmTFEAAAAJ:2osOgNQ5qMEC:
     citations: 32
@@ -10,7 +10,7 @@ papers:
     title: 'DSGym: A Holistic Framework for Evaluating and Training Data Science Agents'
     year: '2026'
   ZWfmTFEAAAAJ:UeHWp8X0CEIC:
-    citations: 38
+    citations: 39
     title: 'Researchcodebench: Benchmarking llms on implementing novel machine learning research code'
     year: '2025'
   ZWfmTFEAAAAJ:qjMakFHDy7sC:
@@ -22,7 +22,7 @@ papers:
     title: 'TabDiff: a Unified Diffusion Model for Multi-Modal Tabular Data Generation'
     year: Unknown Year
   ZWfmTFEAAAAJ:u5HHmVD_uO8C:
-    citations: 51
+    citations: 52
     title: Categorization of 34 computational methods to detect spatially variable genes from spatially resolved transcriptomics data
     year: '2025'
   ZWfmTFEAAAAJ:zYLM7Y9cAGgC:
